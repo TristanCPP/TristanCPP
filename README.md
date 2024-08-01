@@ -9,4 +9,4 @@ Familiar with C++, Java, Python, SQL and more.
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,dart,php,mysql&them=dark)](https://skillicons.dev)
 
 
-Interests: Programming, Hiking/Exercising, and RPG's 🎮
+Interests: Programming, Fitness, and RPG's 🎮
