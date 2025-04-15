@@ -2,7 +2,7 @@
 
 Southern Arkansas University Computer Science Student. Class of 2025 🎓
 
-I’m currently working part time and in my senior year of Computer Science! I am hoping to join the workforce as a software engineer after graduation, work with a great team, and solve cool new challenges!
+I’m currently working part time and in my senior year of Computer Science! Excited to join the workforce and make a difference!
 
 Languages and Tools: C++, Java, Python, PHP, mySQL and more.
 
